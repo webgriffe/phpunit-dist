@@ -3,7 +3,7 @@
   "description": "PHPUnit phar distribution for Webgriffe projects",
   "license": "MIT",
   "require": {
-    "php": ">=8.4.1"
+    "php": ">=8.3"
   },
   "bin": [
     "phpunit"
