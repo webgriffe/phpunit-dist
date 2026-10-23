@@ -1,0 +1,1 @@
+{"name":"webgriffe/phpunit-dist","description":"PHPUnit phar distribution for Webgriffe projects","license":"MIT","require":{"php":">=8.4.1"},"bin":["phpunit"]}
